@@ -18,6 +18,13 @@
     align-items: center;
     justify-content: flex-end;
 
+    .user-dp {
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      object-fit: contain;
+    }
+
     .nav-link {
       padding: 10px 15px;
       cursor: pointer;
